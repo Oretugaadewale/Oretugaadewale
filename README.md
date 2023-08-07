@@ -40,7 +40,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/adewale-oretuga/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adewale%20Oretuga%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/adewale-oretuga-997421159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adewale%20Oretuga%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/oretuga_adewale/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-oretuga_adewale__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:oretugafolorunso@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oretugafolorunso@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
