@@ -17,6 +17,7 @@
   ![Node.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React](https://img.shields.io/badge/-tailwind-333333?style=flat&logo=tailwind)
+  ![C#](https://img.shields.io/badge/-c#-333333?style=flat&logo=c#)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
