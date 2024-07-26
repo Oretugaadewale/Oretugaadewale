@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I learn every day about frontend development
-- 💼 &nbsp; Working as a Frontend Developer and passionate about Event-Driven microservices 
-- 🌱 &nbsp; Learning more about frontend development, Systems Design, and Artificial Intelligence.
+- 🎓 &nbsp; I learn every day about software development
+- 💼 &nbsp; Working as a full stack Developer and passionate about Event-Driven microservices 
+- 🌱 &nbsp; Learning more about software development, Systems Design, and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing technical writing and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
