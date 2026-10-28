@@ -1,10 +1,10 @@
-<h2> Hey there! I'm Adewale Oretuga, A Frontend Developer .</h2>
+<h2> Hey there! I'm Adewale Oretuga, A Software Developer .</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I learn every day about software development
-- 💼 &nbsp; Working as a full stack Developer and passionate about Event-Driven microservices 
+- 💼 &nbsp; Working as a full-stack developer and passionate about Event-Driven microservices 
 - 🌱 &nbsp; Learning more about software development, Systems Design, and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing technical writing and Blog Writing as hobbies/side hustles.
 
