@@ -1,50 +1,24 @@
-<h2> Hey there! I'm Adewale Oretuga, A Software Developer .</h2>
+## Hi, I'm Adewale Oretuga
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+Frontend engineer in Lagos, Nigeria (WAT, UTC+1). I build production web apps in **React, Next.js and TypeScript** for fintech, logistics and travel businesses, from Figma to launch. Open to remote roles.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I learn every day about software development
-- 💼 &nbsp; Working as a full-stack developer and passionate about Event-Driven microservices 
-- 🌱 &nbsp; Learning more about software development, Systems Design, and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing technical writing and Blog Writing as hobbies/side hustles.
+**Portfolio:** [adewale-oretuga.netlify.app](https://adewale-oretuga.netlify.app) | **LinkedIn:** [adewale-oretuga-278b213a1](https://www.linkedin.com/in/adewale-oretuga-278b213a1/) | **Email:** oretugafolorunso@gmail.com
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### What I work with
 
-- 💻 &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React](https://img.shields.io/badge/-tailwind-333333?style=flat&logo=tailwind)
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-figma-333333?style=flat&logo=adobe-figma)
- 
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux Toolkit, HTML, CSS
+- **Backend and data:** Supabase (PostgreSQL, Auth, Row Level Security), REST APIs, Paystack
+- **Tools:** Git, GitHub, Figma, AI-assisted development with Claude Code
 
-<br/>
+### Recent work
 
-<a href="https://github.com/Oretugaadewale">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oretugaadewale&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oretugaadewale&theme=buefy&layout=compact" />
-</a>
+- **AFMweca Super Admin Dashboard** (fintech, private client project): a 9-module admin panel for a digital wallet platform, built in Next.js, TypeScript and Tailwind CSS. Caught a payment flaw in a security review and designed server-side Paystack verification with idempotency checks.
+- **[Avalora Continents](https://avaloracontinent.com)**: website with a visa eligibility checker, processing time tracker and consultation preview. Next.js, TypeScript and Supabase.
+- **[eShopAfrica](https://eshopafrica.co)**: international logistics web app, including a dollar card wallet frontend and a live Naira-to-Dollar conversion tool.
+- **[Myafrimall](https://myafrimall.com.ng)**: refactored the frontend of a shipping platform that serves over 300 countries.
 
-<br/>
+Most of my client code is private, so the live products are linked instead. More on my [portfolio](https://adewale-oretuga.netlify.app/projects).
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### Currently building
 
-<p align="center">
-<a href="https://www.linkedin.com/in/adewale-oretuga-997421159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adewale%20Oretuga%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/oretuga_adewale/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-oretuga_adewale__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:oretugafolorunso@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oretugafolorunso@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-⭐️ From [Adewale Oretuga](https://github.com/Oretugaadewale)
+A shipment tracker with Paystack payments in Next.js, TypeScript and Supabase, built in public with tests.
